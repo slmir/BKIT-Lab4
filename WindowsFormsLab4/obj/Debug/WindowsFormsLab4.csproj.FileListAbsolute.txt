@@ -1,0 +1,10 @@
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\bin\Debug\WindowsFormsLab4.exe.config
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\bin\Debug\WindowsFormsLab4.exe
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\bin\Debug\WindowsFormsLab4.pdb
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\obj\Debug\WindowsFormsLab4.csprojAssemblyReference.cache
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\obj\Debug\WindowsFormsLab4.Form1.resources
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\obj\Debug\WindowsFormsLab4.Properties.Resources.resources
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\obj\Debug\WindowsFormsLab4.csproj.GenerateResource.cache
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\obj\Debug\WindowsFormsLab4.csproj.CoreCompileInputs.cache
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\obj\Debug\WindowsFormsLab4.exe
+E:\0 БКИТ\Лаб4\WindowsFormsLab4\obj\Debug\WindowsFormsLab4.pdb

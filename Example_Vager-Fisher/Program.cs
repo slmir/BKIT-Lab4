@@ -79,8 +79,6 @@ namespace Example_Vager_Fisher
         }
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Рассмотренный ранее пример");
             WriteDistance("ЧЕЛОВЕК", "КЕВОЛЧЕ");
 
             Console.ReadKey();

@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Read_button = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.Download_time_label = new System.Windows.Forms.Label();
             this.Save_time_label = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -42,15 +42,15 @@
             this.textBox_searching_time = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // Read_button
+            // button1
             // 
-            this.Read_button.Location = new System.Drawing.Point(13, 13);
-            this.Read_button.Name = "Read_button";
-            this.Read_button.Size = new System.Drawing.Size(160, 51);
-            this.Read_button.TabIndex = 0;
-            this.Read_button.Text = "Чтение файла";
-            this.Read_button.UseVisualStyleBackColor = true;
-            this.Read_button.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Location = new System.Drawing.Point(13, 13);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(160, 51);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Чтение файла";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Download_time_label
             // 
@@ -90,6 +90,7 @@
             this.textBox_find_word.Name = "textBox_find_word";
             this.textBox_find_word.Size = new System.Drawing.Size(159, 20);
             this.textBox_find_word.TabIndex = 5;
+            this.textBox_find_word.TextChanged += new System.EventHandler(this.textBox_find_word_TextChanged);
             // 
             // Find_word_label
             // 
@@ -144,7 +145,7 @@
             this.textBox_searching_time.Size = new System.Drawing.Size(199, 20);
             this.textBox_searching_time.TabIndex = 11;
             // 
-            // Form1
+            // FormLR4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -160,8 +161,8 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.Save_time_label);
             this.Controls.Add(this.Download_time_label);
-            this.Controls.Add(this.Read_button);
-            this.Name = "Form1";
+            this.Controls.Add(this.button1);
+            this.Name = "FormLR4";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -170,7 +171,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button Read_button;
+        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label Download_time_label;
         private System.Windows.Forms.Label Save_time_label;
         private System.Windows.Forms.TextBox textBox1;

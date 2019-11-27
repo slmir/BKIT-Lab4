@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Window form test", "Lab4 Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "WindowsFormsLab4\Lab4.csproj", "{BEF2B119-A4B3-4BA7-B6AF-4F99C22D8616}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1_Lab5", "ClassLibrary1-Lab5\ClassLibrary1_Lab5.csproj", "{DCE309A6-E5C3-4513-8181-B706ACBB7922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_Lab5", "WF_Lab5\WF_Lab5.csproj", "{8FFD96FB-0460-4235-BE40-D3C411C76DCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{BEF2B119-A4B3-4BA7-B6AF-4F99C22D8616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF2B119-A4B3-4BA7-B6AF-4F99C22D8616}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF2B119-A4B3-4BA7-B6AF-4F99C22D8616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE309A6-E5C3-4513-8181-B706ACBB7922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE309A6-E5C3-4513-8181-B706ACBB7922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE309A6-E5C3-4513-8181-B706ACBB7922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE309A6-E5C3-4513-8181-B706ACBB7922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFD96FB-0460-4235-BE40-D3C411C76DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFD96FB-0460-4235-BE40-D3C411C76DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFD96FB-0460-4235-BE40-D3C411C76DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFD96FB-0460-4235-BE40-D3C411C76DCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Lab4
 {
-    static class ProgramLR4
+    public static class ProgramLR4
     {
         /// <summary>
         /// Главная точка входа для приложения.

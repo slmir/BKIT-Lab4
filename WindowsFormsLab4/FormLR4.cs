@@ -83,5 +83,10 @@ namespace Lab4
                 MessageBox.Show("Необходимо выбрать файл и ввести слово для поиска");
             }
         }
+
+        private void textBox_find_word_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

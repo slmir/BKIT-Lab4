@@ -1,0 +1,12 @@
+C:\VS GIT_copy\Лаб5\WF_Lab5\bin\Debug\WF_Lab5.exe.config
+C:\VS GIT_copy\Лаб5\WF_Lab5\bin\Debug\WF_Lab5.exe
+C:\VS GIT_copy\Лаб5\WF_Lab5\bin\Debug\WF_Lab5.pdb
+C:\VS GIT_copy\Лаб5\WF_Lab5\bin\Debug\DistanceLib.dll
+C:\VS GIT_copy\Лаб5\WF_Lab5\bin\Debug\DistanceLib.pdb
+C:\VS GIT_copy\Лаб5\WF_Lab5\obj\Debug\WF_Lab5.csprojAssemblyReference.cache
+C:\VS GIT_copy\Лаб5\WF_Lab5\obj\Debug\WF_Lab5.Form1.resources
+C:\VS GIT_copy\Лаб5\WF_Lab5\obj\Debug\WF_Lab5.Properties.Resources.resources
+C:\VS GIT_copy\Лаб5\WF_Lab5\obj\Debug\WF_Lab5.csproj.GenerateResource.cache
+C:\VS GIT_copy\Лаб5\WF_Lab5\obj\Debug\WF_Lab5.csproj.CopyComplete
+C:\VS GIT_copy\Лаб5\WF_Lab5\obj\Debug\WF_Lab5.exe
+C:\VS GIT_copy\Лаб5\WF_Lab5\obj\Debug\WF_Lab5.pdb

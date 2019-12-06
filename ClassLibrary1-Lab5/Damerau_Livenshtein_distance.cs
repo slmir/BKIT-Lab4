@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ClassLibrary1_Lab5
+namespace DistanceLib
 {
-    class Damerau_Livenshtein_distance
+    public class Damerau_Livenshtein_distance
     {
-        /// <summary>
-        /// Вычисление расстояния Дамерау-Левенштейна
-        /// </summary>
         public static int Distance(string str1Param, string str2Param)
         {
             if ((str1Param == null) || (str2Param == null))//проверка на пустоту

@@ -1,0 +1,8 @@
+C:\VS GIT_copy\Лаб5\ClassLibrary1-Lab5\bin\Debug\netstandard1.4\DistanceLib.deps.json
+C:\VS GIT_copy\Лаб5\ClassLibrary1-Lab5\bin\Debug\netstandard1.4\DistanceLib.dll
+C:\VS GIT_copy\Лаб5\ClassLibrary1-Lab5\bin\Debug\netstandard1.4\DistanceLib.pdb
+C:\VS GIT_copy\Лаб5\ClassLibrary1-Lab5\obj\Debug\netstandard1.4\DistanceLib.csprojAssemblyReference.cache
+C:\VS GIT_copy\Лаб5\ClassLibrary1-Lab5\obj\Debug\netstandard1.4\DistanceLib.AssemblyInfoInputs.cache
+C:\VS GIT_copy\Лаб5\ClassLibrary1-Lab5\obj\Debug\netstandard1.4\DistanceLib.AssemblyInfo.cs
+C:\VS GIT_copy\Лаб5\ClassLibrary1-Lab5\obj\Debug\netstandard1.4\DistanceLib.dll
+C:\VS GIT_copy\Лаб5\ClassLibrary1-Lab5\obj\Debug\netstandard1.4\DistanceLib.pdb

@@ -66,6 +66,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="lab5diagram.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -80,9 +81,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1-Lab5\ClassLibrary1_Lab5.csproj">
+    <ProjectReference Include="..\ClassLibrary1-Lab5\DistanceLib.csproj">
       <Project>{dce309a6-e5c3-4513-8181-b706acbb7922}</Project>
-      <Name>ClassLibrary1_Lab5</Name>
+      <Name>DistanceLib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

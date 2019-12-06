@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WF_Lab5
+namespace Lab5
 {
     static class Program
     {

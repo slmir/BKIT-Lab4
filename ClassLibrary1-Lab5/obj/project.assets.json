@@ -3832,11 +3832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VS GIT_copy\\Лаб5\\ClassLibrary1-Lab5\\DistanceLib.csproj",
+      "projectUniqueName": "C:\\VS GIT_copy\\testLab5\\ClassLibrary1-Lab5\\DistanceLib.csproj",
       "projectName": "DistanceLib",
-      "projectPath": "C:\\VS GIT_copy\\Лаб5\\ClassLibrary1-Lab5\\DistanceLib.csproj",
+      "projectPath": "C:\\VS GIT_copy\\testLab5\\ClassLibrary1-Lab5\\DistanceLib.csproj",
       "packagesPath": "C:\\Users\\Вячеслав\\.nuget\\packages\\",
-      "outputPath": "C:\\VS GIT_copy\\Лаб5\\ClassLibrary1-Lab5\\obj\\",
+      "outputPath": "C:\\VS GIT_copy\\testLab5\\ClassLibrary1-Lab5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Вячеслав\\AppData\\Roaming\\NuGet\\NuGet.Config",

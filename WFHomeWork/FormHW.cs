@@ -179,7 +179,7 @@ namespace WFHomeWork
 
 		private void buttonSAVEreport_Click(object sender, EventArgs e)
 		{
-			string TempReportFileName = "Отчет_" + DateTime.Now.ToString("dd_MM_yyyy_hhmmss");
+			string TempReportFileName = "Отчет многопоточный поиск " + DateTime.Now.ToString("dd_MM_yyyy_hhmmss");
 
 			//Диалог сохранения файла отчета
 			SaveFileDialog fd = new SaveFileDialog();
@@ -219,13 +219,13 @@ namespace WFHomeWork
 				b.AppendLine("</tr>");
 
 				b.AppendLine("<tr>");
-				b.AppendLine("<td>Максимальное расстояние для нечеткого поиска</td>");
-				b.AppendLine("<td>" + this.textBoxNechetDistance.Text + "</td>");
+				b.AppendLine("<td>Время четкого поиска слова</td>");
+				b.AppendLine("<td>" + this.textBoxChSearchTime.Text + "</td>");
 				b.AppendLine("</tr>");
 
 				b.AppendLine("<tr>");
-				b.AppendLine("<td>Время четкого поиска слова</td>");
-				b.AppendLine("<td>" + this.textBoxChSearchTime.Text + "</td>");
+				b.AppendLine("<td>Максимальное расстояние для нечеткого поиска</td>");
+				b.AppendLine("<td>" + this.textBoxNechetDistance.Text + "</td>");
 				b.AppendLine("</tr>");
 
 				b.AppendLine("<tr>");

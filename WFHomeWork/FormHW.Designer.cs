@@ -46,7 +46,7 @@
 			this.label10 = new System.Windows.Forms.Label();
 			this.buttonMnogopotochnSearch = new System.Windows.Forms.Button();
 			this.buttonCLOSE = new System.Windows.Forms.Button();
-			this.buttonSAVEreport = new System.Windows.Forms.Button();
+			this.buttonSAVEreport_html = new System.Windows.Forms.Button();
 			this.textBoxChSearchTime = new System.Windows.Forms.TextBox();
 			this.label4 = new System.Windows.Forms.Label();
 			this.buttonChSearch = new System.Windows.Forms.Button();
@@ -124,7 +124,7 @@
 			// textBoxMnogopotochSearchTime
 			// 
 			this.textBoxMnogopotochSearchTime.BackColor = System.Drawing.SystemColors.InactiveCaption;
-			this.textBoxMnogopotochSearchTime.Location = new System.Drawing.Point(14, 492);
+			this.textBoxMnogopotochSearchTime.Location = new System.Drawing.Point(14, 473);
 			this.textBoxMnogopotochSearchTime.Name = "textBoxMnogopotochSearchTime";
 			this.textBoxMnogopotochSearchTime.Size = new System.Drawing.Size(219, 22);
 			this.textBoxMnogopotochSearchTime.TabIndex = 38;
@@ -132,7 +132,7 @@
 			// label5
 			// 
 			this.label5.AutoSize = true;
-			this.label5.Location = new System.Drawing.Point(11, 472);
+			this.label5.Location = new System.Drawing.Point(11, 453);
 			this.label5.Name = "label5";
 			this.label5.Size = new System.Drawing.Size(285, 17);
 			this.label5.TabIndex = 37;
@@ -141,7 +141,7 @@
 			// textBoxRealNumberPotoki
 			// 
 			this.textBoxRealNumberPotoki.BackColor = System.Drawing.SystemColors.InactiveCaption;
-			this.textBoxRealNumberPotoki.Location = new System.Drawing.Point(15, 438);
+			this.textBoxRealNumberPotoki.Location = new System.Drawing.Point(15, 419);
 			this.textBoxRealNumberPotoki.Name = "textBoxRealNumberPotoki";
 			this.textBoxRealNumberPotoki.Size = new System.Drawing.Size(219, 22);
 			this.textBoxRealNumberPotoki.TabIndex = 40;
@@ -149,7 +149,7 @@
 			// label6
 			// 
 			this.label6.AutoSize = true;
-			this.label6.Location = new System.Drawing.Point(12, 418);
+			this.label6.Location = new System.Drawing.Point(12, 399);
 			this.label6.Name = "label6";
 			this.label6.Size = new System.Drawing.Size(239, 17);
 			this.label6.TabIndex = 39;
@@ -191,7 +191,7 @@
 			// 
 			this.buttonMnogopotochnSearch.Location = new System.Drawing.Point(15, 303);
 			this.buttonMnogopotochnSearch.Name = "buttonMnogopotochnSearch";
-			this.buttonMnogopotochnSearch.Size = new System.Drawing.Size(218, 98);
+			this.buttonMnogopotochnSearch.Size = new System.Drawing.Size(187, 77);
 			this.buttonMnogopotochnSearch.TabIndex = 45;
 			this.buttonMnogopotochnSearch.Text = "Многопоточный\r\nнечеткий \r\nпоиск слова";
 			this.buttonMnogopotochnSearch.UseVisualStyleBackColor = true;
@@ -208,15 +208,15 @@
 			this.buttonCLOSE.UseVisualStyleBackColor = false;
 			this.buttonCLOSE.Click += new System.EventHandler(this.buttonCLOSE_Click);
 			// 
-			// buttonSAVEreport
+			// buttonSAVEreport_html
 			// 
-			this.buttonSAVEreport.Location = new System.Drawing.Point(12, 524);
-			this.buttonSAVEreport.Name = "buttonSAVEreport";
-			this.buttonSAVEreport.Size = new System.Drawing.Size(147, 41);
-			this.buttonSAVEreport.TabIndex = 47;
-			this.buttonSAVEreport.Text = "Сохранить отчет";
-			this.buttonSAVEreport.UseVisualStyleBackColor = true;
-			this.buttonSAVEreport.Click += new System.EventHandler(this.buttonSAVEreport_Click);
+			this.buttonSAVEreport_html.Location = new System.Drawing.Point(12, 501);
+			this.buttonSAVEreport_html.Name = "buttonSAVEreport_html";
+			this.buttonSAVEreport_html.Size = new System.Drawing.Size(221, 64);
+			this.buttonSAVEreport_html.TabIndex = 47;
+			this.buttonSAVEreport_html.Text = "Сохранить отчет в формате .html";
+			this.buttonSAVEreport_html.UseVisualStyleBackColor = true;
+			this.buttonSAVEreport_html.Click += new System.EventHandler(this.buttonSAVEreport_Click);
 			// 
 			// textBoxChSearchTime
 			// 
@@ -253,7 +253,7 @@
 			this.Controls.Add(this.buttonChSearch);
 			this.Controls.Add(this.textBoxChSearchTime);
 			this.Controls.Add(this.label4);
-			this.Controls.Add(this.buttonSAVEreport);
+			this.Controls.Add(this.buttonSAVEreport_html);
 			this.Controls.Add(this.buttonCLOSE);
 			this.Controls.Add(this.buttonMnogopotochnSearch);
 			this.Controls.Add(this.textBoxNumberOfPotoki);
@@ -299,7 +299,7 @@
 		private System.Windows.Forms.Label label10;
 		private System.Windows.Forms.Button buttonMnogopotochnSearch;
 		private System.Windows.Forms.Button buttonCLOSE;
-		private System.Windows.Forms.Button buttonSAVEreport;
+		private System.Windows.Forms.Button buttonSAVEreport_html;
 		private System.Windows.Forms.TextBox textBoxChSearchTime;
 		private System.Windows.Forms.Label label4;
 		private System.Windows.Forms.Button buttonChSearch;
